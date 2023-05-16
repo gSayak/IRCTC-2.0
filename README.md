@@ -13,7 +13,7 @@
 
 ## About the Project
 
-IRCTC 2.0 is a clone project of IRCTC (Indian Railway Catering and Tourism Corporation). It started with a Discord server created by individuals named <a href="https://rashakdude.github.io/portfolio/">Rajat Agrawal</a> <a href="https://github.com/mandliyarajendra11">Rajendra Mandliya</a>, <a href="https://github.com/gSayak">Sayak Ghosh</a> .The objective of this project is to promote open source development and provide a platform to learn various aspects such as working on a group project and maintaining a large project that is easy for new contributors to understand.
+IRCTC 2.0 is a clone project of IRCTC (Indian Railway Catering and Tourism Corporation). It started with a Discord server created by individuals named <a href="https://rashakdude.github.io/portfolio/" target="_blank">Rajat Agrawal</a> , <a href="https://github.com/mandliyarajendra11" target="_blank">Rajendra Mandliya</a> , <a href="https://github.com/gSayak" target="_blank">Sayak Ghosh</a> .The objective of this project is to promote open source development and provide a platform to learn various aspects such as working on a group project and maintaining a large project that is easy for new contributors to understand.
 
 Indian Railway Catering and Tourism Corporation (IRCTC) is an Indian public sector undertaking that provides ticketing, catering, and tourism services for the Indian Railways. It was initially wholly owned by the Government of India and operated under the administrative control of the Ministry of Railways but has been listed on the National Stock Exchange since 2019, with the Government continuing to hold majority ownership.
 
@@ -45,7 +45,7 @@ Open an issue (`https://github.com/gSayak/IRCTC-2.0/issues`)
 
 <table>
   <tr>
-    <td align="center"><a href="https://rashakdude.github.io/portfolio/"><img src="https://avatars3.githubusercontent.com/u/45696541?v=4" width="100px;" alt=""/><br /><sub><b>Rajat Agrawal</b></sub></a><br /><a href="https://github.com/KKshitiz/UI-Templates/issues?q=author%3ARashakDude" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://rashakdude.github.io/portfolio/" target="_blank" ><img src="https://avatars3.githubusercontent.com/u/45696541?v=4" width="100px;" alt=""/><br /><sub><b>Rajat Agrawal</b></sub></a><br /><a href="https://github.com/KKshitiz/UI-Templates/issues?q=author%3ARashakDude" title="Ideas, Planning, & Feedback" target="_blank">🤔</a></td>
   </tr>
 </table>
 
