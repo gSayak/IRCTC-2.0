@@ -13,7 +13,7 @@
 
 ## About the Project
 
-IRCTC 2.0 is a clone project of <a href-"https://github.com/gSayak/IRCTC-2.0/wiki/About-IRCTC">IRCTC (Indian Railway Catering and Tourism Corporation)</a>. It started with a Discord server created by individuals named <a href="https://rashakdude.github.io/portfolio/" target="_blank">Rajat Agrawal</a> , <a href="https://github.com/mandliyarajendra11" target="_blank">Rajendra Mandliya</a> , <a href="https://github.com/gSayak" target="_blank">Sayak Ghosh</a> .The objective of this project is to promote open source development and provide a platform to learn various aspects such as working on a group project and maintaining a large project that is easy for new contributors to understand.
+IRCTC 2.0 is a clone project of <a href="https://github.com/gSayak/IRCTC-2.0/wiki/About-IRCTC">IRCTC (Indian Railway Catering and Tourism Corporation)</a>. It started with a Discord server created by individuals named <a href="https://rashakdude.github.io/portfolio/" target="_blank">Rajat Agrawal</a> , <a href="https://github.com/mandliyarajendra11" target="_blank">Rajendra Mandliya</a> , <a href="https://github.com/gSayak" target="_blank">Sayak Ghosh</a> .The objective of this project is to promote open source development and provide a platform to learn various aspects such as working on a group project and maintaining a large project that is easy for new contributors to understand.
 
 
 ## Built With
