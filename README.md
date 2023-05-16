@@ -13,6 +13,8 @@
 
 ## About the Project
 
+IRCTC 2.0 is a clone project of IRCTC (Indian Railway Catering and Tourism Corporation). It started with a Discord server created by individuals named <a href="https://rashakdude.github.io/portfolio/">Rajat Agrawal</a> <a href="https://github.com/mandliyarajendra11">Rajendra Mandliya</a>, <a href="https://github.com/gSayak">Sayak Ghosh</a> .The objective of this project is to promote open source development and provide a platform to learn various aspects such as working on a group project and maintaining a large project that is easy for new contributors to understand.
+
 Indian Railway Catering and Tourism Corporation (IRCTC) is an Indian public sector undertaking that provides ticketing, catering, and tourism services for the Indian Railways. It was initially wholly owned by the Government of India and operated under the administrative control of the Ministry of Railways but has been listed on the National Stock Exchange since 2019, with the Government continuing to hold majority ownership.
 
 ## Built With
@@ -22,6 +24,7 @@ Following technologies are used in the project -
 * JavaScript
 * React.js
 * Node.js
+* MongoDB
 
 ## Contribution Guidelines
 
