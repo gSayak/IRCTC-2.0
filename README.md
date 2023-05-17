@@ -42,7 +42,12 @@ Open an issue (`https://github.com/gSayak/IRCTC-2.0/issues`)
 
 <table>
   <tr>
-    <td align="center"><a href="https://rashakdude.github.io/portfolio/"><img src="https://avatars3.githubusercontent.com/u/45696541?v=4" width="100px;" alt=""/><br /><sub><b>Rajat Agrawal</b></sub></a><br /><a href="https://github.com/KKshitiz/UI-Templates/issues?q=author%3ARashakDude" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center">
+    <a href="https://rashakdude.github.io/portfolio/">
+    <img src="https://avatars3.githubusercontent.com/u/45696541?v=4" width="100px;" alt=""/><br /><sub><b>Rajat Agrawal</b></sub></a><br /><a href="https://github.com/KKshitiz/UI-Templates/issues?q=author%3ARashakDude" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center">
+    <a href="https://github.com/kisshan13">
+    <img src="https://avatars.githubusercontent.com/u/107870881?v=4" width="100px;" alt=""/><br /><sub><b>Kisshan Dod</b></sub></a><br /><a href="https://youtu.be/xvFZjo5PgG0 title="Ideas, Planning, & Feedback">🕺🏻</a></td>
   </tr>
 </table>
 
