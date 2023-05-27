@@ -6,15 +6,14 @@
 
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Contribution Guidelines](#contribution-guidelines)
-* [Contributors](#contributors)
+- [About the Project](#about-the-project)
+- [Built With](#built-with)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Contributors](#contributors)
 
 ## About the Project
 
 IRCTC 2.0 is a clone project of <a href="https://github.com/gSayak/IRCTC-2.0/wiki/About-IRCTC">IRCTC (Indian Railway Catering and Tourism Corporation)</a>. It started with a Discord server created by individuals named <a href="https://rashakdude.github.io/portfolio/" target="_blank">Rajat Agrawal</a> , <a href="https://github.com/mandliyarajendra11" target="_blank">Rajendra Mandliya</a> , <a href="https://github.com/gSayak" target="_blank">Sayak Ghosh</a> .The objective of this project is to promote open source development and provide a platform to learn various aspects such as working on a group project and maintaining a large project that is easy for new contributors to understand.
-
 
 ## ✅ Built With
 
@@ -52,6 +51,10 @@ In case you found a bug 🐛
 
 Open an issue (`https://github.com/gSayak/IRCTC-2.0/issues`)
 
+## Issues
+
+1. The frontend needs to be done. The design template is provided in the design folder of the "test" branch as well as the final layout is provided as a xd file named "<a href="https://github.com/gSayak/IRCTC-2.0/blob/test/design/Final%20Design.xd">final.xd<a>". The design can also be checked <a href="https://www.behance.net/gallery/123809965/Online-Train-Ticket-Booking-Service-Home-Page/modules/703635547">here<a>
+
 ## Contributors
 
 <table>
@@ -59,4 +62,3 @@ Open an issue (`https://github.com/gSayak/IRCTC-2.0/issues`)
     <td align="center"><a href="https://rashakdude.github.io/portfolio/" target="_blank" ><img src="https://avatars3.githubusercontent.com/u/45696541?v=4" width="100px;" alt=""/><br /><sub><b>Rajat Agrawal</b></sub></a><br /><a href="https://github.com/KKshitiz/UI-Templates/issues?q=author%3ARashakDude" title="Ideas, Planning, & Feedback" target="_blank">🤔</a></td>
   </tr>
 </table>
-
