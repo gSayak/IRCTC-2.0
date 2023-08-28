@@ -1,62 +1,70 @@
-<p align = "center">
-<img src = "https://uxdt.nic.in/wp-content/uploads/2020/06/IRCTC-Preview.png?x93453" width = "60%">
-<h1 align = "center"> IRCTC 2.0 </h1>
-<h4 align = "center"> Indian Railway Catering and Tourism Corporation </h4>
-</p>
+# Getting Started with Create React App
 
-## Table of Contents
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Contribution Guidelines](#contribution-guidelines)
-* [Contributors](#contributors)
+## Available Scripts
 
-## About the Project
+In the project directory, you can run:
 
-IRCTC 2.0 is a clone project of <a href="https://github.com/gSayak/IRCTC-2.0/wiki/About-IRCTC">IRCTC (Indian Railway Catering and Tourism Corporation)</a>. It started with a Discord server created by individuals named <a href="https://rashakdude.github.io/portfolio/" target="_blank">Rajat Agrawal</a> , <a href="https://github.com/mandliyarajendra11" target="_blank">Rajendra Mandliya</a> , <a href="https://github.com/gSayak" target="_blank">Sayak Ghosh</a> .The objective of this project is to promote open source development and provide a platform to learn various aspects such as working on a group project and maintaining a large project that is easy for new contributors to understand.
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## ✅ Built With
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-<div style="width:60%;margin:0 auto;" align="center">
-  <table>
-    <tr>
-      <td valign="center">
-      <img width="100%" title="React" src="https://img.shields.io/badge/React-0e062a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      <img width="100%" title="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
-      </td>
-      <td valign="center">
-       <img width="100%" title="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-       <img width="100%" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
-      </td>
-      <td valign="center">
-       <img width="100%" title="Node.js" src="https://img.shields.io/badge/Node.js-90c53f?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-       <img width="100%" title="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      </td>
-    </tr>
-  </table>
-</div>
+### `npm test`
 
-## Contribution Guidelines
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. 🙌🙌
+### `npm run build`
 
-1. Fork the Project
-2. Clone the repo(`git clone https://github.com/gSayak/IRCTC-2.0.git`)
-3. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the Branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request(`https://github.com/gSayak/IRCTC-2.0/pulls`)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-In case you found a bug 🐛
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Open an issue (`https://github.com/gSayak/IRCTC-2.0/issues`)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Contributors
+### `npm run eject`
 
-<table>
-  <tr>
-    <td align="center"><a href="https://rashakdude.github.io/portfolio/" target="_blank" ><img src="https://avatars3.githubusercontent.com/u/45696541?v=4" width="100px;" alt=""/><br /><sub><b>Rajat Agrawal</b></sub></a><br /><a href="https://github.com/KKshitiz/UI-Templates/issues?q=author%3ARashakDude" title="Ideas, Planning, & Feedback" target="_blank">🤔</a></td>
-  </tr>
-</table>
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
